@@ -30,7 +30,3 @@ Implemented the distribution of emergency services using DBSCAN clustering algor
 ![Ambulance1](images/ambulance1.jpeg)
 
 
-
-
-## 👤 Developed by
-Aayushman Gupta
